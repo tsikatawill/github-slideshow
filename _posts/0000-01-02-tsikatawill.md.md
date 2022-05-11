@@ -3,6 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-# I rock
+# :sunglasses: I rock
 
 Use the left arrow go back!
